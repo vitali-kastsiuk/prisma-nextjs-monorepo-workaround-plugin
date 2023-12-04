@@ -1,6 +1,6 @@
 {
   "name": "@prisma/nextjs-monorepo-workaround-plugin",
-  "version": "5.6.0",
+  "version": "5.6.0-patch",
   "description": "Ensures that your Prisma files are copied",
   "main": "index.js",
   "repository": {
